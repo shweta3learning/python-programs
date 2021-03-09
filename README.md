@@ -12,5 +12,6 @@ On cmd prompt go to the location where program is saved and type
 python <program-name>
 
 List of program added:
+
 Mini Games:
 1. guess_the_word : This program is demonstrates the use of string functionality, random module , file operations 
